@@ -1,0 +1,10 @@
+version: "3"
+services:
+  olympics:
+    image: postgres:14.5
+    environment:
+      POSTGRES_USER: "belova_204"
+      POSTGRES_PASSWORD: "belova_204"
+      POSTGRES_DB: "belova_204"
+    ports:
+      - "5430:5432"
