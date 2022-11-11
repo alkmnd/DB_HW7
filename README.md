@@ -1,2 +1,3 @@
 # DB_HW7
-Data base homework
+Data base homework by Belova Natalya BSE204
+-----
